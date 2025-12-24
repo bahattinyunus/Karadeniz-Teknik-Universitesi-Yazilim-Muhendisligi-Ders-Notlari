@@ -4,8 +4,8 @@
 
 <div align="center">
 
-# 🌌 ASTRA DOMINUS // SENKRONİZASYON: TAMAMLANDI
-### [ ELİT MÜHENDİSLİK ÜSSÜ & AKADEMİK REHBERLİK TERMİNALİ ]
+# 🛡️ MİLLİ YAZILIM ÜSSÜ // SINIR TANIMAZ AKADEMİ
+### [ ELİT YERLİ MÜHENDİSLİK TERMİNALİ // KTÜ ]
 
 <p align="center">
   <img src="https://img.shields.io/badge/DURUM-OPERASYONEL-00f2ff?style=for-the-badge&logo=opsgenie" alt="Durum">
@@ -18,7 +18,7 @@
 </div>
 
 ## 🎯 MİSYON VE VİZYON
-**Astra Dominus**, Karadeniz Teknik Üniversitesi Yazılım Mühendisliği (2018-2022) akademik mirasını, sadece bir "not deposu" olmanın ötesine taşıyarak, dünya standartlarında bir **Öğrenme ve Mühendislik Ekosistemi**'ne dönüştürmek amacıyla inşa edilmiştir.
+**Milli Yazılım Üssü**, Karadeniz Teknik Üniversitesi Yazılım Mühendisliği (2018-2022) akademik mirasını, sadece bir "not deposu" olmanın ötesine taşıyarak, dünya standartlarında bir **Öğrenme ve Mühendislik Ekosistemi**'ne dönüştürmek amacıyla inşa edilmiştir.
 
 ### 🏛️ Temel Amaçlarımız:
 *   **Faydalı Olmak:** Karmaşık akademik bilgiyi, herkesin anlayabileceği ve uygulayabileceği netlikte sunmak.
