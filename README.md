@@ -42,25 +42,66 @@ Repo hiyerarşisi, profesyonel bir yazılım projesi standartlarında, stratejik
 
 ---
 
-## ⚡ AKADEMİK MATRİS (MÜFREDAT)
+## ⚡ TAM AKADEMİK MÜFREDAT MATRİSİ (2018-2022)
+
+Bu bölüm, KTÜ Yazılım Mühendisliği mülkiyetindeki tüm akademik dersleri ve içerikleri ana terminale yansıtır.
 
 <details open>
-<summary><b>🎓 [ 1-2. SINIF ] - TEMEL VE EVRİM</b></summary>
+<summary><b>📅 [ 1. SINIF ] - TEMEL MÜHENDİSLİK & ALGORİTMA</b></summary>
 
-| SEVİYE | ODAK NOKTASI | BAĞLANTILAR |
-| :--- | :--- | :--- |
-| **01: TEMELLER** | Algoritma, C, Web Tasarımı, Matematik. | [📂 GİRİŞ](1.%20sınıf/README.md) |
-| **02: EVRİM** | OOP (C#), Veritabanı, İşletim Sistemleri. | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| KOD | DERS ADI | KREDİ | BAĞLANTI |
+| :--- | :--- | :---: | :--- |
+| MAT101 | Matematik - I | 4 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| FIZ101 | Temel Fizik | 3.5 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| YM101 | Programlamaya Giriş ve Algoritma | 3.5 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| YM103 | Yazılım Mühendisliğine Giriş | 2 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| YM104 | Yazılım Gereksinimi Mühendisliği | 2 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| YM106 | Veri Yapıları | 3 | [📂 ERİŞİM](1.%20sınıf/README.md) |
+| YM108 | Web Tasarımı ve Programlama | 3 | [📂 ERİŞİM](1.%20sınıf/README.md) |
 
 </details>
 
 <details>
-<summary><b>🎓 [ 3-4. SINIF ] - SENTEZ VE DOMİNASYON</b></summary>
+<summary><b>📅 [ 2. SINIF ] - YAZILIM GELİŞTİRME & SİSTEM</b></summary>
 
-| SEVİYE | ODAK NOKTASI | BAĞLANTILAR |
-| :--- | :--- | :--- |
-| **03: SENTEZ** | Yazılım Mimarisi, Yapay Zeka, Sistem Programlama. | [📂 ANALİZ](3.%20sınıf/README.md) |
-| **04: DOMİNASYON** | Bitirme Projesi, İşyeri Eğitimi (Staj), Test. | [📂 SEKTÖR](4.%20sınıf/README.md) |
+| KOD | DERS ADI | KREDİ | BAĞLANTI |
+| :--- | :--- | :---: | :--- |
+| YM201 | Veri Tabanı ve Yönetimi | 3 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| YM203 | İşletim Sistemleri | 3 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| YM205 | Nesne Yönelimli Programlama | 3 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| MAT201 | Diferansiyel Denklemler | 4 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| YM202 | İleri Web Uygulamaları | 3 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| YM204 | Ayrık Matematik | 2.5 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| YM206 | Mikroişlemciler | 3 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+| IST202 | Olasılık ve İstatistik | 3.5 | [📂 ERİŞİM](2.%20sınıf/README.md) |
+
+</details>
+
+<details>
+<summary><b>📅 [ 3. SINIF ] - UZMANLIK & MİMARİ</b></summary>
+
+| KOD | DERS ADI | KREDİ | BAĞLANTI |
+| :--- | :--- | :---: | :--- |
+| YM301 | Biçimsel Diller ve Otomata | 3 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM303 | Yazılım Tasarımı ve Mimarisi | 3.5 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM305 | Sistem Programlama | 2.5 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM307 | Mobil Uygulama Geliştirme | 2 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM302 | Bilgisayar Ağları | 2.5 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM304 | Yazılım Sınama ve Doğrulama | 2.5 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+| YM306 | Yapay Zekâ | 3.5 | [📂 ERİŞİM](3.%20sınıf/README.md) |
+
+</details>
+
+<details>
+<summary><b>📅 [ 4. SINIF ] - PROFESYONEL ÜRÜN & SEKTÖR </b></summary>
+
+| KOD | DERS ADI | KREDİ | BAĞLANTI |
+| :--- | :--- | :---: | :--- |
+| YM401 | İşyeri Eğitimi (Staj) | - | [📂 ERİŞİM](4.%20sınıf/README.md) |
+| YM403 | Bitirme Projesi | - | [📂 ERİŞİM](4.%20sınıf/README.md) |
+| YM402 | Yazılım Kalite Güvencesi | 3 | [📂 ERİŞİM](4.%20sınıf/README.md) |
+| YM404 | Proje Yönetimi | 3 | [📂 ERİŞİM](4.%20sınıf/README.md) |
+| YM406 | Veri Madenciliği | 2 | [📂 ERİŞİM](4.%20sınıf/README.md) |
 
 </details>
 
