@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/singularity_banner.png" alt="KTÜ Tekillik Banner" width="100%">
+  <img src="assets/national_vision_banner.png" alt="KTÜ Milli Vizyon Banner" width="100%">
 </p>
 
 <div align="center">
