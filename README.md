@@ -1,96 +1,83 @@
-# Karadeniz Teknik Üniversitesi Yazılım Mühendisliği Ders Notları 2018-2022
-***KTÜ Yazılım Mühendisliği ders notlarını içerir. İlgili sınfın ders notları drive da dosyalanmıştır (İndirme işleminizi kolaylaştırmak için.) Erişim talebiniz üzerine gün içinde onay alacaksınız ***LİNKLERE BİR DEFA TIKLAYIN ÜST ÜSTE ERİŞİM İSTEYENLERİN İSTEKLERİ KABUL EDİLMİYOR***. Bu şekilde ders notlarına erişebilirsiniz. Hocaların paylaştığı dokümanlar ve çalıştığım dokümanlardan oluşan bir depodur.*** 
+<p align="center">
+  <img src="assets/banner.png" alt="KTÜ Yazılım Mühendisliği Banner" width="100%">
+</p>
 
-***Not: Her dersin yanında yazan sayılar dersin kredisini ifade eder. Dersler benim aldığım seçmeli derslere göre şekillenmektedir. Erişim sağlayabildiğimde diğer seçmeli derlerin de kaynaklarını ekleyeceğim***
+<h1 align="center">🚀 KTÜ Yazılım Mühendisliği: Elite Engineering Hub</h1>
 
-***Kaynağı verimli bulduysanız yıldızlamayı, daha çok arkadaşımıza erişim sağlayabilmemiz için de köprü oluşturmayı unutmayınız.***
-* Üstteki dosyalar şu an boştur. dosyaların içinde olması gereken tüm dosyalar, belgeler drive da ilgili klasörün altında depolanmıştır.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status Active">
+  <img src="https://img.shields.io/badge/Coverage-2018--2022-blue?style=for-the-badge&logo=google-drive" alt="Coverage 2018-2022">
+  <img src="https://img.shields.io/badge/License-MIT-orange?style=for-the-badge" alt="License MIT">
+  <img src="https://img.shields.io/badge/Location-Trabzon%2FOf-red?style=for-the-badge&logo=google-maps" alt="Location">
+</p>
 
-* Çıkmış sorular için birebir iletişime geçmeniz gerekiyor. 
-* ***Yeni eklenmiştir*** Mezun olarak danışmanlık veriyorum. Bunun için de mailden iletişime geçebilirsiniz. (Ücretlidir.)
-* Mail: yyilmazrabiaa@gmail.com 
+---
 
+## ⚡ Sistem Vizyonu
+Karadeniz Teknik Üniversitesi Yazılım Mühendisliği bölümü öğrencilerinin akademik ve teknik gelişimlerini desteklemek amacıyla oluşturulmuş, stratejik bir bilgi deposudur. Bu repository, 2018-2022 yılları arasındaki köklü müfredatı, ders notlarını ve uygulama dökümanlarını modern bir mühendislik perspektifiyle sunar.
 
--->
+> [!IMPORTANT]
+> **Erişim Protokolü:** Google Drive üzerindeki ders notlarına erişim sağlamak için bir defa tıklamanız yeterlidir. Erişim talebiniz gün içerisinde onaylanacaktır. Lütfen üst üste erişim isteği göndermeyiniz.
 
-## 1. Sınıf
-### [1. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1Lhwr27jCRdOmonKVm2oBVRSof7MuwW9g?usp=sharing)
+---
 
-### 1. Dönem dersleri 
-* Atatürk İlkeleri ve İnkılap Tarihi - I	2	
-* Türk Dili - I	2	
-* İngilizce - I	3	
-* Temel Fizik	3,50
-* Programlamaya Giriş ve Algoritma	3,50	
-* Matematik - I	4
-* Bilgisayarın Temelleri	3
-* Yazılım Mühendisliğine Giriş 2
- 	
-### 2. Dönem dersleri
-* Atatürk İlkeleri ve İnkılap Tarihi - II	2	
-* Türk Dili - II	2	
-* Veri Yapıları	3	
-* Web Tasarımı ve Programlama	3	
-* İngilizce - II	2	
-* Matematik - II	4	 
-* Lineer Cebir	3	
-* Yazılım Gereksinimi Mühendisliği	2
-  
-## 2. Sınıf
-### [2. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing)
+## 🛠️ Teknik Müfredat & Operasyonel Modüller
 
-### 1. Dönem dersleri 
-* Mühendislik ve Bilişim Etiği	2	
-* Bilimsel Proje Hazırlama	2	
-* Veri Tabanı ve Yönetimi	3
-* İşletim Sistemleri	3
-* Nesne Yönelimli Programlama	3
-* Diferansiyel Denklemler	4	
-* İngilizce Okuma ve Yazma	2
+### 🎓 Akademik Yol Haritası
 
-### 2. Dönem dersleri
-* Bilim Tarihi	2	
-* Sunum ve Sunuş Teknikleri	2	
-* İleri Web Uygulamaları	3	
-* Mesleki İngilizce	2	
-* Ayrık Matematik	2,50	
-* Mikroişlemciler	3	
-* Olasılık ve İstatistik	3,50
-  
-## 3. Sınıf
-### [3. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing)
+```mermaid
+graph TD
+    A[1. SINIF: TEMELLER] --> B[2. SINIF: DERİNLEŞME]
+    B --> C[3. SINIF: UZMANLAŞMA]
+    C --> D[4. SINIF: PROFESYONELLEŞME]
+    
+    subgraph "1. Sınıf"
+    A1[Programlama & Algoritma]
+    A2[Yazılım Gereksinimleri]
+    end
+    
+    subgraph "2. Sınıf"
+    B1[Nesne Yönelimli Programlama]
+    B2[Veritabanı Yönetimi]
+    end
+    
+    subgraph "3. Sınıf"
+    C1[Yazılım Tasarımı & Mimari]
+    C2[Sistem Programlama]
+    end
+    
+    subgraph "4. Sınıf"
+    D1[İşyeri Eğitimi]
+    D2[Bitirme Projesi]
+    end
+```
 
-### 1. Dönem dersleri 
-* Biçimsel Diller ve Otomata	3	
-* Sayısal Çözümleme	3	
-* Yazılım Tasarımı ve Mimarisi	3,50
-* Sistem Programlama	2,50	
-* Mobil Uygulama Geliştirme	2	
-* Bilgi Güvenliği ve Kriptoloji	2	
-* 3D Modelleme ve Animasyon	2
+---
 
-### 2. Dönem dersleri
-* Mobil Programlama	2	
-* Görüntü İşleme	2	
-* Optimizasyon Teorisi	2	
-* Eğitim Yazılımı Tasarımı	2	
-* Bilgisayar Ağları	2,50	
-* Yazılım Sınama ve Doğrulama	2,50	
-* Yapay Zekâ	3,50
-  
-## 4. Sınıf
-### [4. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1HdKvowfARe4kAzH2nu_WsV7Pxc5oiOZ3?usp=sharing)
+## 📂 Modüler Yapı & Drive Erişim Portalları
 
-### 1. Dönem dersleri 
-* İşyeri Eğitimi
-* Mesleki Deneyim 1
-* Mesleki Deneyim 2
-* Bitirme Projesi
-### 2. Dönem dersleri
-* Yazılım Kalite Güvencesi 3
-* Yazılım Geliştirme Standartları ve Proje Yönetimi 3
-* Meta - Sezgisel Optimizasyon 2
-* Paralel Hesaplama 2
-* Bitirme Çalışması 1
-* Veri Madenciliği 2
-* Siber Güvenlik ve Uygulamaları 2
+| Sınıf | Kapsam | Drive Erişim Portalı |
+| :--- | :--- | :--- |
+| **1. Sınıf** | Temel Programlama & Matematik | [🚀 Erişimi Başlat](https://drive.google.com/drive/folders/1Lhwr27jCRdOmonKVm2oBVRSof7MuwW9g?usp=sharing) |
+| **2. Sınıf** | NYP & Veritabanı Sistemleri | [🚀 Erişimi Başlat](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing) |
+| **3. Sınıf** | Mimari & Sistem Programlama | [🚀 Erişimi Başlat](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing) |
+| **4. Sınıf** | Profesyonel Deneyim & Bitirme | [🚀 Erişimi Başlat](https://drive.google.com/drive/folders/1HdKvowfARe4kAzH2nu_WsV7Pxc5oiOZ3?usp=sharing) |
+
+---
+
+## ❓ Sıkça Sorulan Sorular (SSS)
+Bölüm, lokasyon ve kariyer ile ilgili tüm sorularınız için [Stratejik SSS Dokümanı](SSS.md) sayfasını ziyaret ediniz.
+
+---
+
+## 📞 İletişim & Danışmanlık
+Mezun danışmanlığı ve teknik destek için aşağıdaki kanalları kullanabilirsiniz:
+
+*   **E-Posta:** `yyilmazrabiaa@gmail.com`
+*   **LinkedIn:** [Rabia Yılmaz](https://www.linkedin.com/in/rabiayilmazz/)
+
+---
+
+<p align="center">
+  <b>Designed with &hearts; for KTÜ Software Engineers</b>
+</p>
