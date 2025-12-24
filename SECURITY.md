@@ -1,32 +1,32 @@
-# 🔒 SECURITY POLICY
-### KTÜ SOFTWARE ENGINEERING // COUNTER-INTEL & PROTECTION
+# 🔒 GÜVENLİK POLİTİKASI
+### KTÜ YAZILIM MÜHENDİSLİĞİ // KARŞI-İSTİHBARAT VE KORUMA
 
-This document outlines the security protocols for the Karadeniz Teknik Üniversitesi Yazılım Mühendisliği repository.
-
----
-
-## 🛡️ CORE PROTOCOLS
-
-### 1. Data Integrity
-All documents and Drive assets are periodically verified for integrity. Any unauthorized modification of internal CODEX files will result in immediate revocation of contribution rights.
-
-### 2. Access Control
-Access to external Google Drive assets is granted manually by the repository administrators. We do not use automated, unverified access tokens to prevent mass data extraction.
-
-### 3. Vulnerability Reporting
-If you identify a security flaw in our automation (GitHub Actions) or a data leak in our public documentation, please report it immediately:
-*   **Security Command:** `yyilmazrabiaa@gmail.com`
-*   **Subject:** `SECURITY-PROTOCOL-ALERT`
+Bu doküman, Karadeniz Teknik Üniversitesi Yazılım Mühendisliği repository'si için güvenlik protokollerini özetlemektedir.
 
 ---
 
-## 🚫 PROHIBITED ACTIONS
-*   Redistributing internal Drive assets without academic authorization.
-*   Spamming access requests.
-*   Injecting malicious scripts into documentation formats.
+## 🛡️ ÇEKİRDEK PROTOKOLLER
+
+### 1. Veri Bütünlüğü
+Tüm dökümanlar ve Drive varlıkları periyodik olarak bütünlük açısından doğrulanır. Dahili KODEKS dosyalarının yetkisiz modifikasyonu, katkıda bulunma haklarının derhal iptali ile sonuçlanacaktır.
+
+### 2. Erişim Kontrolü
+Harici Google Drive varlıklarına erişim, repository yöneticileri tarafından manuel olarak verilir. Kitlesel veri çekimini önlemek için otomatik, doğrulanmamış erişim token'ları kullanmıyoruz.
+
+### 3. Zafiyet Bildirimi
+Otomasyonumuzda (GitHub Actions) bir güvenlik açığı veya halka açık dökümanlarımızda bir veri sızıntısı tespit ederseniz, lütfen derhal bildirin:
+*   **Güvenlik Komutası:** `yyilmazrabiaa@gmail.com`
+*   **Konu:** `GUVENLIK-PROTOKOLU-ALERTI`
+
+---
+
+## 🚫 YASAKLANMIŞ EYLEMLER
+*   Akademik yetki olmaksızın dahili Drive varlıklarını yeniden dağıtmak.
+*   Erişim talebi bombardımanı yapmak.
+*   Dökümantasyon formatlarına kötü amaçlı yazılımlar enjekte etmek.
 
 ---
 
 <p align="center">
-  <b>SECURITY IS A PROCESS, NOT A PRODUCT. PROTECT THE KNOWLEDGE.</b>
+  <b>GÜVENLİK BİR ÜRÜN DEĞİL, BİR SÜREÇTİR. BİLGİYİ KORUYUN.</b>
 </p>

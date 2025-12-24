@@ -1,27 +1,27 @@
-# 📂 THE ARCHIVE PROTOCOL
-### [ UNIVERSAL STORAGE INTERFACE ]
+# 📂 ARŞİV PROTOKOLÜ
+### [ EVRENSEL DEPOLAMA ARAYÜZÜ ]
 
-Welcome to the heart of the singularity. Here lies the collective memory of the KTU Software Engineering program from 2018 to 2022.
-
----
-
-## 🛰️ ACCESS STEPS
-
-1.  **Select Dimension:** Navigate to the corresponding year folder (1st, 2nd, 3rd, or 4th year).
-2.  **Establish Link:** Open the local `README.md` to find the **Drive Portal Link**.
-3.  **Request Clearance:** Click the link and submit your access request.
-4.  **Validation:** Requests are manually validated within 24 standard cycles (hours).
-5.  **Synchronization:** Once granted, you may download or clone the entire archival module.
+Tekilliğin kalbine hoş geldiniz. Burada, 2018-2022 yılları arasındaki KTÜ Yazılım Mühendisliği programının kolektif hafızası yer almaktadır.
 
 ---
 
-## ⚠️ PROHIBITED ACTIONS
-*   Multi-request flooding (will result in blacklist).
-*   Redistribution for non-academic commercial purposes.
-*   Data corruption or unauthorized scraping.
+## 🛰️ ERİŞİM ADIMLARI
+
+1.  **Boyut Seçin:** İlgili sınıf klasörüne (1, 2, 3 veya 4. sınıf) gidin.
+2.  **Bağlantı Kurun:** Yerel `README.md` dosyasını açarak **Drive Portal Linkini** bulun.
+3.  **Onay İsteyin:** Linke tıklayın ve erişim talebinizi gönderin.
+4.  **Validasyon:** Talepler 24 standart döngü (saat) içinde manuel olarak doğrulanır.
+5.  **Senkronizasyon:** Onaylandıktan sonra, tüm arşiv modülünü indirebilir veya klonlayabilirsiniz.
+
+---
+
+## ⚠️ YASAKLANMIŞ EYLEMLER
+*   Çoklu talep bombardımanı (kara listeye alınma ile sonuçlanır).
+*   Akademik olmayan ticari amaçlarla yeniden dağıtım.
+*   Veri bozma veya yetkisiz kazıma (scraping).
 
 ---
 
 <p align="center">
-  <b>KNOWLEDGE IS THE ULTIMATE WEAPON. USE IT WISELY.</b>
+  <b>BİLGİ EN BÜYÜK SİLAHTIR. ONU BİLGELİKLE KULLANIN.</b>
 </p>

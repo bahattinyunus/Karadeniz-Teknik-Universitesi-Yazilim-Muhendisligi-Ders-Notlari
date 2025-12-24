@@ -1,31 +1,31 @@
-# 📜 THE ENGINEERING MANIFESTO
-### KTÜ SOFTWARE ENGINEERING // CODENAME: ASCENSION
+# 📜 MÜHENDİSLİK MANİFESTOSU
+### KTÜ YAZILIM MÜHENDİSLİĞİ // KOD ADI: ASCENSION
 
-Software Engineering is not just a profession; it is the art of architecting reality through logic and code. This manifesto outlines the core philosophies of this repository and the mindset required to ascend as a System Architect.
-
----
-
-## 🏛️ CORE DOCTRINES
-
-### 1. Logic Over Syntax
-Tools and languages change, but logic is eternal. We prioritize understanding the underlying algorithms and data structures over memorizing keywords.
-
-### 2. Architecture is destiny
-A system is only as strong as its foundation. We advocate for clean code, solid design patterns, and scalable architectures from the very first line.
-
-### 3. Continuous Evolution
-The field of software engineering is in a state of perpetual expansion. To stay relevant, one must maintain a mindset of continuous research and adaptation.
-
-### 4. Community Resillience
-Collaboration is our greatest multiplier. We contribute to open source, share knowledge, and support our peers to strengthen the collective engineering ecosystem.
+Yazılım Mühendisliği sadece bir meslek değildir; gerçekliği mantık ve kod ile inşa etme sanatıdır. Bu manifesto, bu depodaki temel felsefeleri ve bir Sistem Mimarı olarak yükselmek için gereken zihin yapısını özetler.
 
 ---
 
-## ⚡ THE ASCENSION OATH
-> "I will build systems that are resilient. I will write code that is readable. I will design architectures that are scalable. I will never stop learning."
+## 🏛️ TEMEL DOKTRİNLER
+
+### 1. Sözdiziminden Önce Mantık
+Araçlar ve diller değişir, ancak mantık sonsuzdur. Anahtar kelimeleri ezberlemek yerine, temel algoritmaları ve veri yapılarını anlamayı önceliklendiriyoruz.
+
+### 2. Mimari Kaderdir
+Bir sistem, sadece temeli kadar güçlüdür. İlk satırdan itibaren temiz kodu (clean code), sağlam tasarım kalıplarını ve ölçeklenebilir mimarileri savunuyoruz.
+
+### 3. Sürekli Evrim
+Yazılım mühendisliği alanı sürekli bir genişleme halindedir. Güncel kalmak için sürekli araştırma ve adaptasyon zihniyeti korunmalıdır.
+
+### 4. Topluluk Direnci
+İşbirliği en büyük çarpanımızdır. Açık kaynağa katkıda bulunuyor, bilgiyi paylaşıyor ve kolektif mühendislik ekosistemini güçlendirmek için akranlarımızı destekliyoruz.
+
+---
+
+## ⚡ YÜKSELİŞ YEMİNİ
+> "Dayanıklı sistemler inşa edeceğim. Okunabilir kod yazacağım. Ölçeklenebilir mimariler tasarlayacağım. Öğrenmeyi asla bırakmayacağım."
 
 ---
 
 <p align="center">
-  <b>AD ASTRA PER ASPERA // LOGIC TO THE STARS</b>
+  <b>AD ASTRA PER ASPERA // YILDIZLARA MANTIKLA</b>
 </p>

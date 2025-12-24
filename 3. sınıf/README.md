@@ -1,24 +1,26 @@
-# 🎓 3. Sınıf: Uzmanlık & Mimari Tasarım
+# 🎓 3. SINIF // SENTEZ MODÜLÜ
+### [ LEVEL 03 // SYNTHESIS ]
 
-Üçüncü yıl, yazılım mühendisliğinde teknik uzmanlığın ve mimari tasarımın zirveye ulaştığı yıldır.
-
-## 📁 Ders Listesi & Kapsam
-*   **Yazılım Tasarımı ve Mimarisi:** Tasarım kalıpları (Design Patterns), mimari stiller.
-*   **Sistem Programlama:** Alt seviye sistem etkileşimi.
-*   **Biçimsel Diller ve Otomata:** Hesaplama teorisi.
-*   **Mobil Uygulama Geliştirme:** Android/iOS platformları.
-*   **Bilgisayar Ağları:** Protokoller ve ağ mimarisi.
+Yazılımın mimari boyutuna geçildiği, sistem programlama ve tasarım kalıplarının ustalıkla harmanlandığı kritik evredir.
 
 ---
 
-## 🚀 Ders Notlarına Erişim
-Bu sınıfa ait tüm dökümanlar bulut üzerinde depolanmaktadır:
+## 📚 MÜFREDAT KAPSAMI
+*   **Yazılım Tasarımı ve Mimarisi:** SOLID, Design Patterns ve temiz kod.
+*   **İşletim Sistemleri:** Makine ve yazılım arasındaki köprü.
+*   **Bilgisayar Ağları:** Bağlantılı sistemlerin anatomisi.
+*   **Web Tasarımı ve Programlama:** Modern internet ekosistemi.
 
-> [!TIP]
-> **[3. Sınıf Drive Portalı İçin Tıklayın](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing)**
+---
+
+## 🌌 ARŞİV ERİŞİMİ
+Tüm ders notlarına, ödevlere ve çıkmış sorulara erişmek için aşağıdaki portalı kullanın:
+
+> [!IMPORTANT]
+> **Drive Portalı:** [🚀 3. Sınıf Arşivine Bağlan](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing)
 
 ---
 
 <p align="center">
-  <b>Mimariyi inşa edin.</b>
+  <b>SİSTEMLERİ TASARLAYIN. GELECEĞE YÖN VERİN.</b>
 </p>

@@ -1,35 +1,35 @@
-# 🛣️ CAREER PATHWAYS & SPECIALIZATIONS
-### STRATEGIC CAREER TRACKS BASED ON KTÜ CURRICULUM
+# 🛣️ KARİYER ROTALARI & UZMANLIKLAR
+### KTÜ MÜFREDATI TEMELLİ STRATEJİK KARİYER YOLLARI
 
-The KTÜ Software Engineering curriculum provides the foundation for multiple elite career tracks. Choose your path and align your study modules accordingly.
-
----
-
-## 🌐 1. FULL-STACK ARCHITECT
-Focus on the synthesis of frontend dynamics and backend stability.
-- **Core Modules:** Web Design, Advanced Web Apps, Database Management.
-- **Secondary:** Software Design & Architecture.
-
-## 🧠 2. AI & DATA SCIENTIST
-Harness the power of neural networks and statistical models.
-- **Core Modules:** Artificial Intelligence, Image Processing, Probability & Statistics, Optimization Theory.
-- **Secondary:** Data Mining.
-
-## 📱 3. MOBILE ECOSYSTEM DEVELOPER
-Build the future of handheld interaction.
-- **Core Modules:** Mobile App Development, Mobile Programming.
-- **Secondary:** Object Oriented Programming, System Programming.
-
-## 🛠️ 4. DEVOPS & SYSTEM ENGINEER
-The guardians of deployment and infrastructure.
-- **Core Modules:** Operating Systems, Computer Networks, Information Security & Cryptology.
-- **Secondary:** Software Testing & Validation.
+KTÜ Yazılım Mühendisliği müfredatı, birden fazla elit kariyer yolu için temel sağlar. Rotanızı seçin ve çalışma modüllerinizi buna göre hizalayın.
 
 ---
 
-### [ ACTION REQUIRED ]
-Identify your primary track and prioritize the [CURRICULUM](CURRICULUM.md) modules flagged for that path.
+## 🌐 1. FULL-STACK MİMARI
+Frontend dinamikleri ve backend stabilitesinin sentezine odaklanın.
+- **Çekirdek Modüller:** Web Tasarımı, İleri Web Uygulamaları, Veri Tabanı Yönetimi.
+- **İkincil:** Yazılım Tasarımı ve Mimarisi.
+
+## 🧠 2. YAPAY ZEKA VE VERİ BİLİMCİSİ
+Sinir ağlarının ve istatistiksel modellerin gücünden yararlanın.
+- **Çekirdek Modüller:** Yapay Zeka, Görüntü İşleme, Olasılık ve İstatistik, Optimizasyon Teorisi.
+- **İkincil:** Veri Madenciliği.
+
+## 📱 3. MOBİL EKOSİSTEM GELİŞTİRİCİSİ
+Elde taşınan etkileşimin geleceğini inşa edin.
+- **Çekirdek Modüller:** Mobil Uygulama Geliştirme, Mobil Programlama.
+- **İkincil:** Nesne Yönelimli Programlama, Sistem Programlama.
+
+## 🛠️ 4. DEVOPS VE SİSTEM MÜHENDİSİ
+Dağıtım ve altyapının koruyucuları.
+- **Çekirdek Modüller:** İşletim Sistemleri, Bilgisayar Ağları, Bilgi Güvenliği ve Kriptoloji.
+- **İkincil:** Yazılım Sınama ve Doğrulama.
+
+---
+
+### [ EYLEM GEREKLİ ]
+Birincil rotanızı belirleyin ve [MÜFREDAT](SYSTEM_CORE_MATRIX.md) modüllerindeki ilgili dersleri önceliklendirin.
 
 <p align="center">
-  <b>CHOOSE YOUR SPECIALIZATION. OPTIMIZE YOUR EVOLUTION.</b>
+  <b>UZMANLIĞINIZI SEÇİN. EVRİMİNİZİ OPTİMİZE EDİN.</b>
 </p>

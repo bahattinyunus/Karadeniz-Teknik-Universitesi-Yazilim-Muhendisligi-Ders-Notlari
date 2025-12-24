@@ -1,25 +1,25 @@
-# 📜 THE DOCTRINE OF EXCELLENCE
-### KTÜ SE // QUANTUM CODING STANDARDS
+# 📜 MÜKEMMELLİYET DOKTRİNİ
+### KTÜ YM // KUANTUM KODLAMA STANDARTLARI
 
-This is NOT a guide. This is the law of this system. To survive and dominate in the Software Engineering field, you must internalize these ten commandments.
+Bu bir rehber DEĞİLDİR. Bu, bu sistemin yasasıdır. Yazılım Mühendisliği alanında hayatta kalmak ve hükmetmek için bu on emri içselleştirmelisiniz.
 
 ---
 
-## 🏛️ THE TEN COMMANDMENTS
+## 🏛️ ON EMİR
 
-1.  **Optimization is Duty:** Never settle for a slow algorithm. O(n^2) is a crime if O(n log n) is possible.
-2.  **Architecture is Sovereign:** Clean architecture is the only way to prevent entropy. Respect the SOLID principles as holy text.
-3.  **Documentation is Legacy:** Code speaks, but documentation explains why. Leave a legacy that the next generation can build upon.
-4.  **Security is Default:** A system without security is a house without a foundation. Encrypt, validate, and shield everything.
-5.  **Refactor or Perish:** Technical debt is a slow poison. Constant refactoring is the antidote.
-6.  **Test to the Death:** A single bug can collapse a singularity. Test every edge case, every failure mode.
-7.  **Automation is Freedom:** If a task can be automated, it must be automated. Reclaim your biological processing time.
-8.  **Knowledge is Fluid:** The tech stack you know today will be obsolete tomorrow. Stay liquid.
-9.  **Peer Review is Shielding:** Your peers are your best defensive layer. Seek review, give review, improve the collective.
-10. **The User is the Singularity:** Everything we build serves the human experience. Never lose sight of the objective.
+1.  **Optimizasyon Görevdir:** Asla yavaşa razı olmayın. O(n log n) mümkünken O(n^2) bir suçtur.
+2.  **Mimari Hükümdardır:** Temiz mimari, entropiyi önlemenin tek yoludur. SOLID prensiplerine kutsal metin muamelesi yapın.
+3.  **Dökümantasyon Mirastır:** Kod konuşur, döküman açıklar. Gelecek nesillerin üzerine inşa edebileceği bir miras bırakın.
+4.  **Güvenlik Varsayılandır:** Güvenliği olmayan bir sistem, temeli olmayan bir evdir. Her şeyi şifreleyin, doğrulayın ve zırhlayın.
+5.  **Refactor ya da Yok Ol:** Teknik borç yavaş bir zehirdir. Sürekli refactoring (iyileştirme) bunun panzehiridir.
+6.  **Ölesiye Test Et:** Tek bir hata bir tekilliği çökertebilir. Her bir uç vakayı, her bir hata modunu test edin.
+7.  **Otomasyon Özgürlüktür:** Bir görev otomatikleştirilebiliyorsa, otomatikleştirilmelidir. Biyolojik işlem zamanınızı geri kazanın.
+8.  **Bilgi Akışkandır:** Bugün bildiğiniz teknoloji yığını yarın demode olacaktır. Akışkan kalın.
+9.  **Akran Denetimi Zırhlamadır:** Akranlarınız en iyi savunma katmanınızdır. Denetim isteyin, denetim yapın, kolektifi geliştirin.
+10. **Kullanıcı Tekilliktir:** İnşa ettiğimiz her şey insana hizmet eder. Hedefi asla gözden kaçırmayın.
 
 ---
 
 <p align="center">
-  <b>AD HEREAT AD INFINITUM // CODE TO DOMINATE</b>
+  <b>AD HEREAT AD INFINITUM // HÜKMETMEK İÇİN KODLA</b>
 </p>

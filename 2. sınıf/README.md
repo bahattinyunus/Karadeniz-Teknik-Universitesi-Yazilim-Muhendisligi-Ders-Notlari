@@ -1,24 +1,26 @@
-# 🎓 2. Sınıf: Yazılım Geliştirme & Sistem Derinleşmesi
+# 🎓 2. SINIF // EVRİM MODÜLÜ
+### [ LEVEL 02 // EVOLUTION ]
 
-İkinci yıl, temel bilgilerin yazılım geliştirme pratiklerine ve sistem mimarisine dönüştüğü kritik bir evredir.
-
-## 📁 Ders Listesi & Kapsam
-*   **Nesne Yönelimli Programlama (NYP):** Java/C# ile nesne tabanlı tasarım.
-*   **Veri Tabanı ve Yönetimi:** SQL, veritabanı tasarımı ve yönetimi.
-*   **İşletim Sistemleri:** Süreç yönetimi, bellek ve dosya sistemleri.
-*   **Ayrık Matematik:** Bilgisayar bilimlerinin matematiksel temeli.
-*   **Mikroişlemciler:** Donanım ve yazılımın kesişim noktası.
+Programlama becerilerinizin derinleştiği, veri yapıları ve nesne yönelimli yaklaşımların merkeze alındığı gelişim aşamasıdır.
 
 ---
 
-## 🚀 Ders Notlarına Erişim
-Bu sınıfa ait tüm dökümanlar bulut üzerinde depolanmaktadır:
+## 📚 MÜFREDAT KAPSAMI
+*   **Nesne Yönelimli Programlama:** Mimari düşüncenin başlangıcı.
+*   **Veri Yapıları:** Veriyi yönetme ve optimize etme sanatı.
+*   **Veritabanı Yönetim Sistemleri:** Kalıcı veri mimarileri.
+*   **Olasılık ve İstatistik:** Veri biliminin temelleri.
 
-> [!TIP]
-> **[2. Sınıf Drive Portalı İçin Tıklayın](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing)**
+---
+
+## 🌌 ARŞİV ERİŞİMİ
+Tüm ders notlarına, ödevlere ve çıkmış sorulara erişmek için aşağıdaki portalı kullanın:
+
+> [!IMPORTANT]
+> **Drive Portalı:** [🚀 2. Sınıf Arşivine Bağlan](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing)
 
 ---
 
 <p align="center">
-  <b>Karmaşıklığı yönetmeyi öğrenin.</b>
+  <b>BİLGİYİ DERİNLEŞTİRİN. KARMAŞIKLIĞI YÖNETİN.</b>
 </p>
