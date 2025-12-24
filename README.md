@@ -107,23 +107,54 @@ Bu bölüm, KTÜ Yazılım Mühendisliği mülkiyetindeki tüm akademik dersleri
 
 ---
 
-## 🧠 PROFESYONEL GELİŞİM EKOSİSTEMİ
-Teknik bilginizi profesyonel bir kariyere dönüştürmek için tasarlanmış "Aydınlanma" ve "Bilgelik" modülleri.
+## 🛰️ STRATEJİK PORTALLAR VE İÇERİK TANITIMI
+Bu bölüm, reponun kalbindeki dökümanları fonksiyonel gruplarına göre tanıtır ve sizi doğru terminale yönlendirir.
 
-### 📍 Stratejik Rehberlik
-*   **[⚓ Mühendislik Manifestosu](DOKTRIN_VE_STRATEJI/MANIFESTO.md):** Teknik felsefe ve yükseliş vizyonu.
-*   **[🛣️ Kariyer Rotaları](GELISIM_MERKEZI/PATHWAYS.md):** Uzmanlık alanları ve gelecek planlaması.
-*   **[🚀 Portfolyo & CV Rehberi](GELISIM_MERKEZI/PORTFOLYO.md):** Sektörde fark yaratma stratejileri.
+### 🏛️ [ MODÜL: DOKTRİN VE STRATEJİ ]
+Bu portal, bir yazılım mühendisinin teknik bilgisinden önce sahip olması gereken **zihin yapısını ve etik değerleri** inşa eder.
+*   **[⚓ Mühendislik Manifestosu](DOKTRIN_VE_STRATEJI/MANIFESTO.md):** Sistemin anayasası. Neden kod yazdığımızın ve hangi felsefeyle ilerlediğimizin yanıtı.
+*   **[📜 Sistem Doktrini](DOKTRIN_VE_STRATEJI/DOCTRINE.md):** Mühendislikte mükemmellik standartları ve operasyonel disiplin rehberi.
+*   **[🛡️ Güvenlik Protokolü](DOKTRIN_VE_STRATEJI/SECURITY.md):** Veri güvenliği ve açık kaynaklı işbirliğinde korunma taktikleri.
+> [!TIP]
+> **Eylem:** [Mühendislik Zihnini İnşa Et](DOKTRIN_VE_STRATEJI/MANIFESTO.md)
 
-### 📍 Teknik Derinlik
-*   **[🧩 SOLID ve Mimari](TEKNIK_KUTUPHANE/SOLID_VE_MIMARI.md):** Sürdürülebilir sistem tasarım temelleri.
-*   **[🔄 Yazılım Yaşam Döngüsü](TEKNIK_KUTUPHANE/YAZILIM_YASAM_DONGUSU.md):** Profesyonel ürün geliştirme süreçleri.
-*   **[📖 Teknik Terimler Sözlüğü](TEKNIK_KUTUPHANE/TEKNIK_SOZLUK.md):** Terminoloji hakimiyeti.
-*   **[🎤 Mülakat Hazırlığı](TEKNIK_KUTUPHANE/MULAKAT_ANTRENMANI.md):** Teknik mülakat antrenmanları.
+---
+
+### 🚀 [ MODÜL: PROFESYONEL GELİŞİM MERKEZİ ]
+Akademik başarıyı **sektörel kariyere** dönüştüren köprüdür. Stratejik yol haritaları ve operasyonel rehberleri içerir.
+*   **[🛣️ Kariyer Rotaları](GELISIM_MERKEZI/PATHWAYS.md):** KTÜ müfredatına göre hangi uzmanlık alanına (AI, Web, Mobile) yönelmeniz gerektiğini belirler.
+*   **[🎯 Portfolyo Tasarımı](GELISIM_MERKEZI/PORTFOLYO.md):** Sizi diğer adaylardan ayıracak projelerin ve GitHub profilinin nasıl inşa edileceğini öğretir.
+*   **[💼 Staj & Kariyer Taktikleri](GELISIM_MERKEZI/STAJ_REHBERI.md):** CV hazırlamadan mülakat masasına kadar olan tüm iş arama sürecini yönetir.
+*   **[🐍 Teknoloji Yol Haritaları](GELISIM_MERKEZI/TEKNOLOJI_ROTALARI.md):** C#, Java, Python ve C++ dillerinde ustalığa giden spesifik adımlar.
+> [!TIP]
+> **Eylem:** [Kariyerini Planlamaya Başla](GELISIM_MERKEZI/PATHWAYS.md)
+
+---
+
+### 🧩 [ MODÜL: TEKNİK KÜTÜPHANE VE AKADEMİ ]
+Mühendislik sanatının **teknik derinliğine** odaklanır. Okulda öğrenilen teoriyi piyasa standartlarına çeker.
+*   **[📐 SOLID ve Mimari Prensipler](TEKNIK_KUTUPHANE/SOLID_VE_MIMARI.md):** Karmaşık sistemleri yönetilebilir ve sürdürülebilir kılacak tasarım doktrinleri.
+*   **[🔄 Yazılım Yaşam Döngüsü (SDLC)](TEKNIK_KUTUPHANE/YAZILIM_YASAM_DONGUSU.md):** Bir fikrin profesyonel bir ürüne dönüşme aşamaları ve metodolojiler.
+*   **[📖 Teknik Terimler Sözlüğü](TEKNIK_KUTUPHANE/TEKNIK_SOZLUK.md):** Sektör jargonuna ve teknik terimlere %100 hakimiyet sağlayan sözlük.
+*   **[🎤 Mülakat Antrenmanları](TEKNIK_KUTUPHANE/MULAKAT_ANTRENMANI.md):** Seviye seviye ayrılmış gerçekçi teknik mülakat soruları ve yanıtları.
+*   **[📚 Teknik Kaynak Kütüphanesi](TEKNIK_KUTUPHANE/TEKNIK_KAYNAKLAR.md):** Dünya çapında kürate edilmiş en iyi eğitim kaynaklarının listesi.
+> [!TIP]
+> **Eylem:** [Teknik Bilgini Derinleştir](TEKNIK_KUTUPHANE/SOLID_VE_MIMARI.md)
+
+---
+
+### 📊 [ MODÜL: SİSTEM ÇEKİRDEĞİ VE ARŞİV ]
+Reponun temelini oluşturan **akademik hafıza ve veri** merkezidir.
+*   **[📑 Müfredat Matrisi](SISTEM_KODLAR/SYSTEM_CORE_MATRIX.md):** 1. sınıftan 4. sınıfa tüm derslerin detaylı dökümü ve durumu.
+*   **[🛰️ İstihbarat Merkezi](SISTEM_KODLAR/INTEL_CENTER.md):** KTÜ Yazılım Mühendisliği hakkında en çok sorulan sorular ve stratejik bilgiler.
+*   **[🌌 Arşiv Protokolü](GELISIM_MERKEZI/ARCHIVE_PROTOCOL.md):** Bulut tabanlı ders notları ve projelere erişim sağlamak için gereken adımlar.
+> [!TIP]
+> **Eylem:** [Akademik Arşivi Keşfet](GELISIM_MERKEZI/ARCHIVE_PROTOCOL.md)
 
 ---
 
 ## 📈 AKADEMİK EVRİM ŞEMASI
+Bu şema, KTÜ Yazılım Mühendisliği programındaki 4 yıllık teknik dönüşümünüzün görsel özetidir.
 
 ```mermaid
 graph LR
@@ -144,18 +175,6 @@ graph LR
     style A fill:#00f2ff,stroke:#000
     style G fill:#ff0055,stroke:#000
 ```
-
----
-
-## 📓 SİSTEM KODEKSLERİ
-
-<p align="center">
-<a href="DOKTRIN_VE_STRATEJI/DOCTRINE.md"><img src="https://img.shields.io/badge/»_DOKTRİN-000000?style=plastic&logoColor=cyan" /></a>
-<a href="SISTEM_KODLAR/SYSTEM_CORE_MATRIX.md"><img src="https://img.shields.io/badge/»_ÇEKİRDEK_MATRİS-000000?style=plastic&logoColor=cyan" /></a>
-<a href="SISTEM_KODLAR/INTEL_CENTER.md"><img src="https://img.shields.io/badge/»_İSTİHBARAT_MERKEZİ-000000?style=plastic&logoColor=cyan" /></a>
-<a href="DOKTRIN_VE_STRATEJI/SECURITY.md"><img src="https://img.shields.io/badge/»_GÜVENLİK-000000?style=plastic&logoColor=cyan" /></a>
-<a href="GELISIM_MERKEZI/ARCHIVE_PROTOCOL.md"><img src="https://img.shields.io/badge/»_ARŞİV_PROTOKOLÜ-000000?style=plastic&logoColor=cyan" /></a>
-</p>
 
 ---
 
