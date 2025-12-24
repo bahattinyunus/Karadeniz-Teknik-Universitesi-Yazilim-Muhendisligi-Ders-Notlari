@@ -1,95 +1,100 @@
 <p align="center">
-  <img src="assets/ascension_banner.png" alt="KTÜ Ascension Banner" width="100%">
+  <img src="assets/singularity_banner.png" alt="KTÜ Singularity Banner" width="100%">
 </p>
 
 <div align="center">
 
-# 🌌 KTÜ: THE ASCENSION
-### [ ELITE SOFTWARE ENGINEERING HUB // V3.0 ]
+# 🌌 ASTRA DOMINUS // SYNC: ACTIVE
+### [ UNIVERSAL CODE TERMINAL // ZERO-POINT INTERFACE ]
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NETWORK-STABLE-00f2ff?style=for-the-badge&logo=probot&logoColor=00f2ff" alt="Network">
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL_4-blueviolet?style=for-the-badge&logo=shield" alt="Clearance">
-  <img src="https://img.shields.io/badge/CORE-ACTIVE-7cff00?style=for-the-badge&logo=cpu" alt="Core">
+  <img src="https://img.shields.io/badge/QUANTUM-LOCKED-00f2ff?style=for-the-badge&logo=quantum-espression" alt="Quantum">
+  <img src="https://img.shields.io/badge/SINGULARITY-REACHED-ff0055?style=for-the-badge&logo=target" alt="Singularity">
+  <img src="https://img.shields.io/badge/UPTIME-∞_MS-7cff00?style=for-the-badge&logo=uptime-robot" alt="Uptime">
 </p>
 
 ---
 
 </div>
 
-## 🛡️ MISSION BRIEFING
-**Karadeniz Teknik Üniversitesi Yazılım Mühendisliği** ekosistemi için tasarlanmış, geleneksel akademik sınırları aşan, "tanınmaz" derecede gelişmiş bir stratejik bilgi terminaline hoş geldiniz. Bu repository, mühendislik eğitimini bir **Ascension (Yükseliş)** süreci olarak ele alır.
+## 🛰️ SYSTEM OVERVIEW & TELEMETRY
+**KTÜ Yazılım Mühendisliği** bilgi ekosistemi, artık lineer bir döküman deposu olmaktan çıkmış; çok boyutlu bir teknik doktrin merkezine evrilmiştir. Aradığınız her şey, olay ufkunun hemen ötesinde.
 
-> [!CAUTION]
-> **ACCESS PROTOCOL:** Bilgi modüllerine erişim için [INTEL CENTER](INTEL_CENTER.md) protokollerini takip edin. Drive verileri şifrelenmiş değil, ancak erişim onayı manuel validasyon gerektirir.
-
----
-
-## 🛰️ OPERATIONAL MODULES (CORE)
-
-| MODULE | CODEX | ACCESS STATUS |
-| :--- | :--- | :--- |
-| **LEVEL 01: FOUNDATION** | [1. Sınıf Modülleri](1.%20sınıf/README.md) | `🟢 STABLE` |
-| **LEVEL 02: EVOLUTION** | [2. Sınıf Modülleri](2.%20sınıf/README.md) | `🟢 STABLE` |
-| **LEVEL 03: SYNTHESIS** | [3. Sınıf Modülleri](3.%20sınıf/README.md) | `🟢 STABLE` |
-| **LEVEL 04: MASTERY** | [4. Sınıf Modülleri](4.%20sınıf/README.md) | `🟢 STABLE` |
-
----
-
-## 🧩 STRATEGIC ASSETS
-
-<p align="center">
-<a href="MANIFESTO.md"><img src="https://img.shields.io/badge/📜_MANIFESTO-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="CURRICULUM.md"><img src="https://img.shields.io/badge/📊_CURRICULUM-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="INTEL_CENTER.md"><img src="https://img.shields.io/badge/💡_INTEL_CENTER-000000?style=for-the-badge&logoColor=white" /></a>
-<a href="SECURITY.md"><img src="https://img.shields.io/badge/🔒_SECURITY-000000?style=for-the-badge&logoColor=white" /></a>
-</p>
-
----
-
-## ⚡ TECH STACK MATRIX
-
-```mermaid
-graph LR
-    subgraph "CORE LANGUAGES"
-    L1[C++]
-    L2[C#]
-    L3[JAVA]
-    L4[PYTHON]
-    end
-    
-    subgraph "SPECIALIZATIONS"
-    S1[AI & DATA]
-    S2[SYSTEM ARCHITECTURE]
-    S3[MOBILE DEV]
-    S4[WEB PROTOCOLS]
-    end
-    
-    L1 --> S2
-    L2 --> S3
-    L3 --> S4
-    L4 --> S1
+```text
+[ STATUS ]    ASCENSION PROTOCOL: COMPLETED
+[ IDENTITY ]  KTU-SE-SINGULARITY-V4
+[ PURPOSE ]   NEURAL ARCHITECTURE SEEDING
 ```
 
 ---
 
-## 🎯 ASCENSION PATHWAY
+## ⚡ CORE NEURAL MODULES
 
-Bu hub, sizi sadece bir öğrenci değil, bir **Sistem Mimarı** olarak yetiştirmeyi amaçlar. Her klasör, her not ve her döküman bu büyük tasarımın bir parçasıdır.
+| DIMENSION | INTERFACE | FREQUENCY |
+| :--- | :--- | :--- |
+| **01: FOUNDATION** | [TERMINAL ACCESS L1](1.%20sınıf/README.md) | `SYNCING...` |
+| **02: EVOLUTION** | [TERMINAL ACCESS L2](2.%20sınıf/README.md) | `STABLE` |
+| **03: SYNTHESIS** | [TERMINAL ACCESS L3](3.%20sınıf/README.md) | `STABLE` |
+| **04: DOMINANCE** | [TERMINAL ACCESS L4](4.%20sınıf/README.md) | `LOCKED` |
 
-*   **Logic Extraction:** Algoritma ve matematik temelleri.
-*   **System Integration:** İşletim sistemleri ve ağ yapıları.
-*   **Architectural Mastery:** Tasarım kalıpları ve temiz kod.
-*   **Professional Deployment:** Sektörel eğitim ve bitirme projeleri.
+---
+
+## 🏗️ SYSTEM SCHEMATIC (GLOBAL CURRICULUM)
+
+```mermaid
+graph TD
+    subgraph "THE SINGULARITY"
+    ROOT((ROOT))
+    end
+    
+    subgraph "DATA SPHERE"
+    ROOT --> AI[NEURAL NETS]
+    ROOT --> DB[RELATIONAL CORES]
+    end
+    
+    subgraph "LOGIC SPHERE"
+    ROOT --> ARC[SYSTEM ARCHITECTURE]
+    ROOT --> MOB[QUANTUM MOBILE]
+    end
+    
+    subgraph "SECURITY SPHERE"
+    ROOT --> CRY[CRYPTOLOGY]
+    ROOT --> TEST[VAL-PROTOCOLS]
+    end
+    
+    style ROOT fill:#f0f,stroke:#333,stroke-width:4px
+    style AI fill:#0ff,stroke:#000
+    style ARC fill:#0ff,stroke:#000
+```
+
+---
+
+## 📓 THE BLACK BOX CODICES
+
+<p align="center">
+<a href="MANIFESTO.md"><img src="https://img.shields.io/badge/»_MANIFESTO-000000?style=plastic&logoColor=cyan" /></a>
+<a href="SYSTEM_CORE_MATRIX.md"><img src="https://img.shields.io/badge/»_CORE_MATRIX-000000?style=plastic&logoColor=cyan" /></a>
+<a href="INTEL_CENTER.md"><img src="https://img.shields.io/badge/»_INTEL_CENTER-000000?style=plastic&logoColor=cyan" /></a>
+<a href="SECURITY.md"><img src="https://img.shields.io/badge/»_SECURITY-000000?style=plastic&logoColor=cyan" /></a>
+<a href="DOCTRINE.md"><img src="https://img.shields.io/badge/»_DOCTRINE-000000?style=plastic&logoColor=cyan" /></a>
+</p>
+
+---
+
+## 🌌 THE ARCHIVE PROTOCOL
+Bulut tabanlı tüm dökümanlara (Ders Notları, Çıkmışlar, Projeler) erişim sağlamak için `THE ARCHIVE` kapısını aralayın. Erişim yetkisi için **Tekil Onay** gerekmektedir.
+
+> [!CAUTION]
+> **Warning:** Bilgi ağır bir yüktür. Onu taşımaya hazır mısınız? [ARCHIVE_PROTOCOL.md](ARCHIVE_PROTOCOL.md) adresini ziyaret edin.
 
 ---
 
 <div align="center">
 
-### [ 📞 ESTABLISH COMMUNICATION ]
+### [ ⚡ FREQUENCY ESTABLISHED ]
 
-`yyilmazrabiaa@gmail.com` // ` Trabzon, TR `
+`yyilmazrabiaa@gmail.com` // ` Trabzon, TURKEY `
 
-**Designed for those who build the future.**
+**There is no spoon. Just code.**
 
 </div>
