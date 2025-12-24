@@ -28,7 +28,7 @@ Dağıtım ve altyapının koruyucuları.
 ---
 
 ### [ EYLEM GEREKLİ ]
-Birincil rotanızı belirleyin ve [MÜFREDAT](SYSTEM_CORE_MATRIX.md) modüllerindeki ilgili dersleri önceliklendirin.
+Birincil rotanızı belirleyin ve [MÜFREDAT](../SISTEM_KODLAR/SYSTEM_CORE_MATRIX.md) modüllerindeki ilgili dersleri önceliklendirin.
 
 <p align="center">
   <b>UZMANLIĞINIZI SEÇİN. EVRİMİNİZİ OPTİMİZE EDİN.</b>
