@@ -1,22 +1,24 @@
-## 1. Sınıf
-### [1. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1Lhwr27jCRdOmonKVm2oBVRSof7MuwW9g?usp=sharing)
+# 🎓 1. Sınıf: Temel Mühendislik & Algoritma
 
-### 1. Dönem dersleri 
-* Atatürk İlkeleri ve İnkılap Tarihi - I	2	
-* Türk Dili - I	2	
-* İngilizce - I	3	
-* Temel Fizik	3,50
-* Programlamaya Giriş ve Algoritma	3,50	
-* Matematik - I	4
-* Bilgisayarın Temelleri	3
-* Yazılım Mühendisliğine Giriş 2
- 	
-### 2. Dönem dersleri
-* Atatürk İlkeleri ve İnkılap Tarihi - II	2	
-* Türk Dili - II	2	
-* Veri Yapıları	3	
-* Web Tasarımı ve Programlama	3	
-* İngilizce - II	2	
-* Matematik - II	4	 
-* Lineer Cebir	3	
-* Yazılım Gereksinimi Mühendisliği	2
+Bu klasör, yazılım mühendisliği eğitiminin temellerini atan derslerin notlarını ve kaynaklarını içerir.
+
+## 📁 Ders Listesi & Kapsam
+*   **Programlamaya Giriş ve Algoritma:** C dili temelleri, algoritma mantığı.
+*   **Matematik I & II:** Analiz ve temel matematiksel yapılar.
+*   **Temel Fizik:** Mekanik ve mühendislik fiziği.
+*   **Yazılım Mühendisliğine Giriş:** Mesleki temeller ve etik.
+*   **Web Tasarımı:** HTML, CSS ve temel web teknolojileri.
+
+---
+
+## 🚀 Ders Notlarına Erişim
+Bu sınıfa ait tüm dökümanlar bulut üzerinde depolanmaktadır:
+
+> [!TIP]
+> **[1. Sınıf Drive Portalı İçin Tıklayın](https://drive.google.com/drive/folders/1Lhwr27jCRdOmonKVm2oBVRSof7MuwW9g?usp=sharing)**
+
+---
+
+<p align="center">
+  <b>Planlı çalışın, temeli sağlam atın.</b>
+</p>

@@ -1,22 +1,24 @@
-  
-## 2. Sınıf
-### [2. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing)
+# 🎓 2. Sınıf: Yazılım Geliştirme & Sistem Derinleşmesi
 
-### 1. Dönem dersleri 
-* Mühendislik ve Bilişim Etiği	2	[--> Tıklayınız](https://drive.google.com/drive/folders/16cYa0moZS3P4CAk9W5pkrzX1PxFi5ISi?usp=sharing)
-* Bilimsel Proje Hazırlama	2	[--> Tıklayınız](https://drive.google.com/drive/folders/1JC-OWSqSDwuvZzpxfPnapDrTQ8XfDIbN?usp=sharing)
-* Veri Tabanı ve Yönetimi	3	[--> Tıklayınız](https://drive.google.com/drive/folders/1JC-OWSqSDwuvZzpxfPnapDrTQ8XfDIbN?usp=sharing)
-* İşletim Sistemleri	3	[--> Tıklayınız](https://drive.google.com/drive/folders/1qJa3eZ_NUEMfLkqb4SwN17KHfOJ_7WDP?usp=sharing)
-* Nesne Yönelimli Programlama	3 [--> Tıklayınız](https://drive.google.com/drive/folders/1qJa3eZ_NUEMfLkqb4SwN17KHfOJ_7WDP?usp=sharing)
-* Diferansiyel Denklemler	4	
-* İngilizce Okuma ve Yazma	2[--> Tıklayınız](https://drive.google.com/drive/folders/1_nugjS-PKakqnv8dM96G7dnyZWQU7pOp?usp=sharing)
+İkinci yıl, temel bilgilerin yazılım geliştirme pratiklerine ve sistem mimarisine dönüştüğü kritik bir evredir.
 
-### 2. Dönem dersleri
-* Bilim Tarihi	2	
-* Sunum ve Sunuş Teknikleri	2	
-* İleri Web Uygulamaları	3	
-* Mesleki İngilizce	2	
-* Ayrık Matematik	2,50	
-* Mikroişlemciler	3	
-* Olasılık ve İstatistik	3,50
-  
+## 📁 Ders Listesi & Kapsam
+*   **Nesne Yönelimli Programlama (NYP):** Java/C# ile nesne tabanlı tasarım.
+*   **Veri Tabanı ve Yönetimi:** SQL, veritabanı tasarımı ve yönetimi.
+*   **İşletim Sistemleri:** Süreç yönetimi, bellek ve dosya sistemleri.
+*   **Ayrık Matematik:** Bilgisayar bilimlerinin matematiksel temeli.
+*   **Mikroişlemciler:** Donanım ve yazılımın kesişim noktası.
+
+---
+
+## 🚀 Ders Notlarına Erişim
+Bu sınıfa ait tüm dökümanlar bulut üzerinde depolanmaktadır:
+
+> [!TIP]
+> **[2. Sınıf Drive Portalı İçin Tıklayın](https://drive.google.com/drive/folders/1yx-dSXJR6-cxHJpYkMN7x0tphMJjXXDV?usp=sharing)**
+
+---
+
+<p align="center">
+  <b>Karmaşıklığı yönetmeyi öğrenin.</b>
+</p>

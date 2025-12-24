@@ -1,20 +1,24 @@
-## 3. Sınıf
-### [3. sınıf ders notları için tıklayın](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing)
+# 🎓 3. Sınıf: Uzmanlık & Mimari Tasarım
 
-### 1. Dönem dersleri 
-* Biçimsel Diller ve Otomata	3	
-* Sayısal Çözümleme	3	
-* Yazılım Tasarımı ve Mimarisi	3,50
-* Sistem Programlama	2,50	
-* Mobil Uygulama Geliştirme	2	
-* Bilgi Güvenliği ve Kriptoloji	2	
-* 3D Modelleme ve Animasyon	2
+Üçüncü yıl, yazılım mühendisliğinde teknik uzmanlığın ve mimari tasarımın zirveye ulaştığı yıldır.
 
-### 2. Dönem dersleri
-* Mobil Programlama	2	
-* Görüntü İşleme	2	
-* Optimizasyon Teorisi	2	
-* Eğitim Yazılımı Tasarımı	2	
-* Bilgisayar Ağları	2,50	
-* Yazılım Sınama ve Doğrulama	2,50	
-* Yapay Zekâ	3,50
+## 📁 Ders Listesi & Kapsam
+*   **Yazılım Tasarımı ve Mimarisi:** Tasarım kalıpları (Design Patterns), mimari stiller.
+*   **Sistem Programlama:** Alt seviye sistem etkileşimi.
+*   **Biçimsel Diller ve Otomata:** Hesaplama teorisi.
+*   **Mobil Uygulama Geliştirme:** Android/iOS platformları.
+*   **Bilgisayar Ağları:** Protokoller ve ağ mimarisi.
+
+---
+
+## 🚀 Ders Notlarına Erişim
+Bu sınıfa ait tüm dökümanlar bulut üzerinde depolanmaktadır:
+
+> [!TIP]
+> **[3. Sınıf Drive Portalı İçin Tıklayın](https://drive.google.com/drive/folders/1ulGFiAq1KWu2x7RERYH0l9007GRTGZUR?usp=sharing)**
+
+---
+
+<p align="center">
+  <b>Mimariyi inşa edin.</b>
+</p>
