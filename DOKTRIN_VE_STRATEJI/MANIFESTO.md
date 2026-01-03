@@ -1,31 +1,28 @@
-# 📜 MÜHENDİSLİK MANİFESTOSU
-### KTÜ YAZILIM MÜHENDİSLİĞİ // KOD ADI: ASCENSION
+# ⚓ TEMEL MÜHENDİSLİK MANİFESTOSU
+### *Zamanın Ötesindeki Değişmez Doğrular*
 
-Yazılım Mühendisliği sadece bir meslek değildir; gerçekliği mantık ve kod ile inşa etme sanatıdır. Bu manifesto, bu depodaki temel felsefeleri ve bir Sistem Mimarı olarak yükselmek için gereken zihin yapısını özetler.
-
----
-
-## 🏛️ TEMEL DOKTRİNLER
-
-### 1. Sözdiziminden Önce Mantık
-Araçlar ve diller değişir, ancak mantık sonsuzdur. Anahtar kelimeleri ezberlemek yerine, temel algoritmaları ve veri yapılarını anlamayı önceliklendiriyoruz.
-
-### 2. Mimari Kaderdir
-Bir sistem, sadece temeli kadar güçlüdür. İlk satırdan itibaren temiz kodu (clean code), sağlam tasarım kalıplarını ve ölçeklenebilir mimarileri savunuyoruz.
-
-### 3. Sürekli Evrim
-Yazılım mühendisliği alanı sürekli bir genişleme halindedir. Güncel kalmak için sürekli araştırma ve adaptasyon zihniyeti korunmalıdır.
-
-### 4. Topluluk Direnci
-İşbirliği en büyük çarpanımızdır. Açık kaynağa katkıda bulunuyor, bilgiyi paylaşıyor ve kolektif mühendislik ekosistemini güçlendirmek için akranlarımızı destekliyoruz.
+> "Bir ağaç göklere (AI) uzanmak istiyorsa, köklerini derinlere (Temel Bilimler) salmalıdır."
 
 ---
 
-## ⚡ YÜKSELİŞ YEMİNİ
-> "Dayanıklı sistemler inşa edeceğim. Okunabilir kod yazacağım. Ölçeklenebilir mimariler tasarlayacağım. Öğrenmeyi asla bırakmayacağım."
+## I. TEMELLERİN KUTSALLIĞI
+Yapay zeka çağındayız, evet. Ancak en gelişmiş sinir ağı bile, günün sonunda 0 ve 1'ler üzerinde çalışır, bellek yönetir ve işlemci döngüleri tüketir.
+**Temelleri unutan mühendis, esen ilk rüzgarda yıkılan gökdelenler inşa eder.**
+*   Bugün `array.sort()` çağırabilirsin, ama sıralama algoritmasının maliyetini (Big-O) bilmek zorundasın.
+*   Framework'ler değişir, ama Veri Yapıları (Data Structures) ebedidir.
+
+## II. BİLGİNİN MİRASI
+Mühendislik kümülatif bir bilimdir. Bizden öncekilerin omuzlarında yükseliriz.
+Bu depo, akademik yılların alın terini ve disiplinini temsil eder. Bu notlar, sadece sınav geçmek için değil, mühendislik sezgisi (intuition) kazanmak içindir.
+
+## III. DİSİPLİN VE SABIR
+Modern dünya hız ister, ama öğrenme sabır ister.
+Gerçek ustalık, kısa yollardan değil, zorlu yollardan geçer. Hata ayıklarken (debugging) geçirilen o uykusuz geceler, derleyicinin (compiler) verdiği o karmaşık hatalar... Hepsi karakteri ve zihni yontan darbelerdir.
+
+## IV. ÖNCE İNSAN, SONRA MAKİNE
+Teknoloji insanlık içindir. Yazdığımız her satır kod, birinin hayatını kolaylaştırmalı, güvenli kılmalı veya zenginleştirmelidir. Makinelere hükmederken, insanlığımızı kaybetmemeliyiz.
 
 ---
 
-<p align="center">
-  <b>AD ASTRA PER ASPERA // YILDIZLARA MANTIKLA</b>
-</p>
+**İMZA,**
+*Geleneksel Ekolün Bekçileri*
