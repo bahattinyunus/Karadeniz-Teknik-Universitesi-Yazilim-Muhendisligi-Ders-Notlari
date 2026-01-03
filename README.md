@@ -36,7 +36,7 @@ Mühendislik, kümülatif bir bilimdir; yani bilgi birikimi üst üste eklenerek
 Bizim yaptığımız görev ise, bu sağlam temeli korumak, modernize etmek ve yeni nesil mühendislerin anlayabileceği bir formatta sunmaktır. Bu repo, onun orijinal çalışmasının bir "fork"u olup, klasik mühendislik mirasını onurlandırmak ve onu global standartlara taşımak için özelleştirilmiştir.
 
 ### 👨‍💻 MEVCUT BAKIMCI VE GELİŞTİRİCİ
-Bu deponun modernizasyonu, "Post-AI" vizyonuyla genişletilmesi, görsel kimliğinin oluşturulması ve kurumsal düzeyde yönetimi **Bahattin Yunus Çetin** tarafından sağlanmaktadır. Geçmişin mirasını devralıp, onu geleceğin teknolojisiyle harmanlayan bir vizyon üstlenilmiştir.
+Bu deponun modernizasyonu, görsel kimliğinin oluşturulması ve **"Klasik Mühendislik"** mirasının korunması **Bahattin Yunus Çetin** tarafından sağlanmaktadır. Buradaki görev; geleceğin teknolojilerini (Post-AI) inşa etmek için gerekli olan **sağlam temelleri** korumak ve orijinal eseri yaşatmaktır.
 
 > **Bahattin Yunus Çetin** // *IT Architect & University Student (Of, Trabzon)*
 >
@@ -44,6 +44,40 @@ Bu deponun modernizasyonu, "Post-AI" vizyonuyla genişletilmesi, görsel kimliğ
 >
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-BAĞLAN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/bahattinyunus/)
 > [![GitHub](https://img.shields.io/badge/GitHub-TAKİP_ET-181717?style=for-the-badge&logo=github)](https://github.com/bahattinyunus)
+
+---
+
+## 🏛️ ORİJİNAL DERS MATERYALLERİ (RABİA YILMAZ ARŞİVİ)
+Bu reponun kalbinde, **Rabia Yılmaz** tarafından bizzat hazırlanmış, saf ve değiştirilmemiş ders notları yatmaktadır. Bu bölüm, reponun "altın madenidir".
+
+### [ 📁 ERİŞİME AÇILAN GİZLİ KLASÖR: YAZILIM TASARIMI VE MİMARİSİ ]
+Özellikle **3. Sınıf / 1. Dönem** klasöründe saklanan bu arşiv, SOLID prensiplerini sadece teorik olarak değil, **Uygulamalı Kod Örnekleri** ile öğretir.
+
+*   **📄 Ders Notları (.docx):** Her bir prensip (Single Responsibility, Open/Closed...) için hazırlanmış detaylı akademik dökümanlar.
+*   **☕ Kaynak Kodlar (.java):** Prensiplerin ihlal edildiği ve düzeltildiği gerçek dünya senaryolarını içeren **Java Projeleri**.
+
+#### 📂 ARŞİV İÇERİĞİ VE HIZLI ERİŞİM:
+| KLASÖR | İÇERİK TÜRÜ | AÇIKLAMA |
+| :--- | :--- | :--- |
+| **[1) S - Single Responsibility](3.%20sınıf/1.dönem/Yazılım%20tasarımı%20ve%20mimarisi/SOLID/1)%20S)** | 📄 Docx + ☕ Java | "Tek Sorumluluk" ilkesinin kod üzerinde uygulanışı. |
+| **[2) O - Open/Closed](3.%20sınıf/1.dönem/Yazılım%20tasarımı%20ve%20mimarisi/SOLID/2)%20O)** | 📄 Docx + ☕ Java | Kodun değişime kapalı, gelişime açık olması. |
+| **[3) L - Liskov Substitution](3.%20sınıf/1.dönem/Yazılım%20tasarımı%20ve%20mimarisi/SOLID/3)%20L)** | 📄 Docx + ☕ Java | Alt sınıfların mirası doğru taşıması. |
+| **[4) I - Interface Segregation](3.%20sınıf/1.dönem/Yazılım%20tasarımı%20ve%20mimarisi/SOLID/4)%20I)** | 📄 Docx + ☕ Java | Arayüzlerin (Interface) atomik parçalanması. |
+| **[5) D - Dependency Inversion](3.%20sınıf/1.dönem/Yazılım%20tasarımı%20ve%20mimarisi/SOLID/5)%20D)** | 📄 Docx + ☕ Java | Bağımlılıkların tersine çevrilmesi ve soyutlama. |
+
+> [!TIP]
+> **ÖNERİ:** Bu klasörleri indirip IDE'nizde (IntelliJ/Eclipse) açarak çalıştırın. Kod okumak, kitap okumaktan daha öğreticidir.
+
+---
+
+## 🧠 BEYİN YAZILIMI GÜNCELLEMESİ (ÖĞRENMEYİ ÖĞRENMEK)
+Kod yazmadan önce, beyninizi programlamanız gerekir. İşte mühendislik zihnini inşa etmenin metodolojileri:
+
+*   **Feynman Tekniği:** Bir konuyu (örn: Pointerlar) 6 yaşındaki bir çocuğa anlatamıyorsanız, anlamamışsınız demektir. Basitleştirin.
+*   **Derin Çalışma (Deep Work):** 2 saatlik odaklanmış çalışma, 10 saatlik dağınık çalışmadan değerlidir. Bildirimleri kapatın, akışa (flow) girin.
+*   **Aktif Geri Çağırma (Active Recall):** Okuduğunuzu hemen unutursunuz. Kapatın ve "Ne okudum?" diye kendinize sorun. Beyninizi bilgi almaya değil, bilgi üretmeye zorlayın.
+
+[🔗 DETAYLI ÖĞRENME REHBERİ](GELISIM_MERKEZI/REHBER_OGRENME.md)
 
 ---
 
@@ -60,16 +94,58 @@ Gerçek bir mühendis, alet çantasındaki araçları ne zaman ve nerede kullana
 
 ---
 
-## 💎 HAZİNE ODASI (GİZLİ KAYNAKLAR)
-Ders notları sadece başlangıçtır. Çoğu öğrencinin gözden kaçırdığı ama kariyerinizde size sınıf atlatacak **paha biçilemez değerdeki** kaynaklar, bu reponun derinliklerinde mevcuttur.
+## 🏗️ MÜHENDİSLİK DOKTRİNİ (SOLID VE PRENSİPLER)
+Bu repo, sadece "nasıl" kod yazılacağını değil, "neden" öyle yazılması gerektiğini savunur. **SOLID**, sürdürülebilir bir mimarinin anayasasıdır.
 
-*   **[📚 Teknik Kütüphane](TEKNIK_KUTUPHANE):** Klasik ders notlarının ötesine geçmek, teoriyi pratiğe dökmek isteyenler için özel olarak derlenmiştir.
-    *   **[Mimari & SOLID Prensipleri:](TEKNIK_KUTUPHANE/SOLID_VE_MIMARI.md)** Kodun sadece çalışması yetmez, bir sanat eseri gibi zarif, sürdürülebilir ve esnek olmalıdır. Spagetti koddan kaçışın rehberi buradadır.
-    *   **[Mülakat Antrenmanları:](TEKNIK_KUTUPHANE/MULAKAT_ANTRENMANI.md)** Okul bittiğinde sizi bekleyen "Teknik Mülakat" canavarını yenmek için gerçekçi senaryolar ve sorular. Sektöre girmeden önceki son çıkış.
-    *   **[Teknik Sözlük:](TEKNIK_KUTUPHANE/TEKNIK_SOZLUK.md)** Bir mühendis gibi konuşmak, teknik jargonlara hakim olmak, global ekiplerle çalışırken en büyük avantajınızdır.
-*   **[🚀 Profesyonel Gelişim Merkezi](GELISIM_MERKEZI):** Sadece kod yazmayı değil, yazılım dünyasında "kariyer" yapmayı öğretir.
-    *   **[Portfolyo Rehberi:](GELISIM_MERKEZI/PORTFOLYO.md)** GitHub profiliniz sizin diplomanızdır. Sizi binlerce aday arasından sıyırıp işe aldıracak o mükemmel vitrini nasıl kuracağınızı anlatır.
-    *   **[Staj Taktikleri:](GELISIM_MERKEZI/STAJ_REHBERI.md)** Kurumsal dünyaya ilk adımı atmak en zoru olabilir. Doğru CV, doğru başvuru ve doğru iletişim stratejileri ile kaleyi içeriden fethedin.
+> **[S]ingle Responsibility (Tek Sorumluluk):** Bir sınıfın veya metodun hayatta kalmak için sadece **bir nedeni** olmalıdır. İsviçre çakısı gibi her işi yapan sınıflardan kaçının.
+>
+> **[O]pen/Closed (Açıklık/Kapalılık):** Sisteminizi, kodunuzu değiştirmeden yeni özellikler ekleyebileceğiniz (extend) şekilde tasarlayın. Bir "if" bloğuna dokunmak zorunda kalıyorsanız, tasarımınızı sorgulayın.
+>
+> **[L]iskov Substitution:** Alt sınıflar, üst sınıfların yerine **sorunsuz** geçebilmelidir. Bir `Kare`, bir `Dikdörtgen` gibi davranamıyorsa, miras almamalıdır.
+>
+> **[I]nterface Segregation:** Devasa arayüzler yerine, müşteriye (class'a) özel, odaklanmış arayüzler tasarlayın. Kullanmadığınız metoda bağımlı olmayın.
+>
+> **[D]ependency Inversion:** Detaylara değil, soyutlamalara (Abstraction) bağımlı olun. "New" anahtar sözcüğü en büyük düşmanınız olabilir.
+
+[🔗 DETAYLI ANALİZ İÇİN TEKNİK KÜTÜPHANEYE GİDİN](TEKNIK_KUTUPHANE/SOLID_VE_MIMARI.md)
+
+---
+
+## 🔄 YAZILIM YAŞAM DÖNGÜSÜ (SDLC)
+Kod yazmak, işin sadece %20'sidir. Profesyonel bir ürünün doğum süreci şöyledir:
+
+1.  **Analiz:** "Ne yapıyoruz?" sorusu. Kullanıcı hikayeleri ve gereksinimlerin belirlenmesi. En kritik aşamadır; yanlış analiz, çöp projedir.
+2.  **Tasarım (Design):** Mimari çizim, Veritabanı şeması ve UI/UX. Koda el sürmeden önce zihinde bitirme aşaması.
+3.  **Geliştirme (Implementation):** Temiz kod standartlarına göre kodlama.
+4.  **Test:** Unit testlerden Kullanıcı Kabul Testlerine (UAT) kadar doğrulama. "Test edilmemiş kod, bozuk koddur."
+5.  **Deploy (Dağıtım):** Ürünün canlıya (Production) çıkışı ve CI/CD süreçleri.
+
+[🔗 SDLC DETAYLARI](TEKNIK_KUTUPHANE/YAZILIM_YASAM_DONGUSU.md)
+
+---
+
+## 🎯 MÜLAKAT MEYDANI (ARENA)
+Okul bittiğinde karşılaşacağınız "Boss Fight"lara şimdiden hazırlanın. İşte sektörün sizi tartacağı terazi:
+
+| SEVİYE | ÖRNEK MÜLAKAT SORUSU | BEKLENEN YAKLAŞIM |
+| :--- | :--- | :--- |
+| **🟢 JUNIOR** (1-2. Sınıf) | "Bir diziyi tersten çeviren algoritmayı O(n) süresinde nasıl yazarsın?" | Hazır kütüphane kullanmak yerine döngü mantığını ve indeks yönetimini göstermeniz beklenir. |
+| **🟡 MID-LEVEL** (3. Sınıf) | "Singleton tasarım kalıbı nedir ve Thread-Safe olarak nasıl implemente edilir?" | Sadece tanımı değil, 'neden' kullanıldığını ve çoklu iş parçacığı (concurrency) risklerini bilmeniz gerekir. |
+| **🔴 SENIOR** (4. Sınıf+) | "Mikroservis mimarisinin monolitik yapıya göre Dezavantajları nelerdir?" | Herkes avantajları sayar; bir mimar ise "Network Latency", "Distributed Transactions" gibi maliyetleri bilir. |
+
+[🔗 DAHA FAZLA SORU İÇİN ANTRENMAN SAHASINA GİDİN](TEKNIK_KUTUPHANE/MULAKAT_ANTRENMANI.md)
+
+---
+
+## 🚀 KARİYER VE PORTFOLYO HARİTASI
+Diplomanız sizi mülakata sokar, ancak GitHub profiliniz sizi işe aldırır. Her yılın bir çıktısı olmalıdır:
+
+*   **📍 1. SINIF (TEMEL):** Basit algoritmik oyunlar (Yılan Oyunu, Tetris). Terminal ekranında çalışsa bile kodun temiz olmalı. **Git** kullanmayı öğrenin.
+*   **📍 2. SINIF (VERİ):** Veritabanı bağlantılı masaüstü uygulamaları (Otomasyonlar). SQL ve OOP'yi birleştirin.
+*   **📍 3. SINIF (WEB/MOBİL):** Artık son kullanıcıya dokunan ürünler. Bir e-ticaret sitesi veya mobil uygulama kurgulayın. Bir "Tech Stack" seçin (Örn: .NET veya Flutter).
+*   **📍 4. SINIF (PROFESYONEL):** Mikroservisler, API Gateway'ler veya kompleks AI modelleri. Bitirme projenizi bir "Ürün" gibi paketleyin (Dockerize edin).
+
+[🔗 ADIM ADIM PORTFOLYO REHBERİ](GELISIM_MERKEZI/PORTFOLYO.md)
 
 ---
 
@@ -114,7 +190,7 @@ Ders notları sadece başlangıçtır. Çoğu öğrencinin gözden kaçırdığ�
 ---
 
 ## 📈 YETENEK AĞACI: KARİYER EVRİMİ
-4 yıllık akademik eğitimin sonunda, sıradan bir öğrenciden yetkin bir mühendise dönüşüm sürecinizin görsel haritası. Hangi derste öğrendiğiniz bilginin, sektörde hangi yetkinliğe karşılık geldiğini gösterir.
+4 yıllık akademik eğitimin sonunda, sıradan bir öğrenciden yetkin bir mühendise dönüşüm sürecinizin görsel haritası.
 
 ```mermaid
 graph TD
@@ -136,6 +212,30 @@ graph TD
     
     style J fill:#f9f,stroke:#333,stroke-width:4px
 ```
+
+---
+
+## 📖 TEKNİK SÖZLÜK (JARGON BUSTER)
+Mühendis gibi konuşmayı öğrenin. İşte sektörde her gün duyacağınız terimlerin "Mühendisçesi":
+
+*   **Abstraction (Soyutlama):** Detaylarda boğulmadan büyük resmi görmektir. Arabayı kullanmak için motorun nasıl çalıştığını bilmenize gerek yoktur.
+*   **Encapsulation (Kapsülleme):** Veriyi korumaktır. Hapın içindeki ilacı (veriyi), dış etkilerden koruyan kapsül gibidir.
+*   **Polymorphism (Çok Biçimlilik):** Aynı komutun, farklı nesnelerde farklı işlev görmesidir. "Ses Çıkar" komutu; Köpek için "Havla", Kedi için "Miyavla" demektir.
+*   **CI/CD (Sürekli Entegrasyon):** Kodun yazılmasından canlıya alınmasına kadar olan sürecin otomatize edilmesidir.
+
+[🔗 TÜM TEKNİK TERİMLER](TEKNIK_KUTUPHANE/TEKNIK_SOZLUK.md)
+
+---
+
+## 🤝 STAJ VE SEKTÖR STRATEJİSİ
+Mezun olmadan önce yapmanız gereken "Operasyonel Hamleler":
+
+*   **GitHub Senin Diploman:** Boş reprolar değil, `README`si olan bitirilmiş projeler ekleyin.
+*   **Coğrafya Kader Değildir:** Trabzon Teknokent yerel bir başlangıçtır, ancak hedefiniz Remote (İstanbul/Global) olmalıdır.
+*   **Network:** LinkedIn'de sadece okul arkadaşlarınızı değil, hedeflediğiniz şirkette çalışan mühendisleri ekleyin.
+*   **Mülakat Taktikleri:** "Bilmiyorum" demekten korkmayın, "Nasıl öğrenirim?" veya "Mantığını şöyle kurarım" diyerek analitik zekanızı gösterin.
+
+[🔗 DETAYLI STAJ REHBERİ İÇİN TIKLAYIN](GELISIM_MERKEZI/STAJ_REHBERI.md)
 
 ---
 
